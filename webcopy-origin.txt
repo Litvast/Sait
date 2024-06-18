@@ -1,0 +1,188 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\ajax\libs\jquery\1.9.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://apis.google.com/js/platform.js
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\js\platform.js
+Content Type: text/javascript
+
+Uri: https://everlastingsummer.su/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://everlastingsummer.su/css/magnific-popup.css
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://everlastingsummer.su/css/style.css
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\css\style.css
+Content Type: text/css
+
+Uri: https://everlastingsummer.su/css/supersized.css
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\css\supersized.css
+Content Type: text/css
+
+Uri: https://everlastingsummer.su/gallery/screen_1.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_1.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_10.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_10.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_2.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_2.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_3.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_3.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_4.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_4.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_5.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_5.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_6.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_6.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_7.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_7.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_8.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_8.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/screen_9.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\screen_9.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_1.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_1.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_10.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_10.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_2.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_2.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_3.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_3.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_4.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_4.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_5.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_5.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_6.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_6.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_7.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_7.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_8.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_8.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/gallery/thumb/screen_9.jpg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\gallery\thumb\screen_9.jpg
+Content Type: image/jpeg
+
+Uri: https://everlastingsummer.su/img/16plus.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\16plus.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/2ch.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\2ch.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/4play.gif
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\4play.gif
+Content Type: image/gif
+
+Uri: https://everlastingsummer.su/img/apple_ru.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\apple_ru.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/app_atore_badge_ru.svg
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\app_atore_badge_ru.svg
+Content Type: image/svg+xml
+
+Uri: https://everlastingsummer.su/img/fb.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\fb.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/google_play.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\google_play.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/go_steam.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\go_steam.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/lang_en.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\lang_en.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/lang_ru.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\lang_ru.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/logo.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\logo.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/scrolldown.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\scrolldown.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/svgames.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\svgames.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/vk.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\vk.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/img/yt.png
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\img\yt.png
+Content Type: image/png
+
+Uri: https://everlastingsummer.su/js/jquery.magnific-popup.min.js
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://everlastingsummer.su/js/supersized.3.2.7.min.js
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\js\supersized.3.2.7.min.js
+Content Type: application/javascript
+
+Uri: https://everlastingsummer.su/ru/
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\ru\index.htm
+Content Type: text/html
+
+Uri: https://everlastingsummer.su/ru/favicon.ico
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Ubuntu&subset=latin,cyrillic
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKew7z.ttf
+File Name: C:\Users\misab\OneDrive\Рабочий стол\summer\everlastingsummer.su\s\ubuntu\v20\4iCs6KVjbNBYlgoKew7z.ttf
+Content Type: font/ttf
+

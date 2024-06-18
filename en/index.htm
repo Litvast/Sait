@@ -1,0 +1,398 @@
+﻿<!DOCTYPE html>
+
+<head>
+
+  <title>Маяк</title>
+  <meta content="text/html; charset=utf-8" http-equiv="content-type">
+  
+  
+  <link type="image/x-icon" rel="shortcut icon" href="../ru/favicn.ico">
+  <link href="../css/style.css" rel="stylesheet" type="text/css" media="screen">
+  <link rel="stylesheet" href="../css/supersized.css" type="text/css" media="screen">
+  <link href="../css-1?family=Ubuntu&amp;subset=latin,cyrillic" rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="../js/audio.js">
+</head>
+
+<body>
+  <div id="fb-root"></div>
+  <div id="page">
+    <div id="logo">
+      <img src="../images/log.png" alt="" style="height: 650px; width: 950px;">
+    </div>
+
+    <div class="lang__buttons">
+      <a href="index.htm" class="lang__button"><img src="../img/lang_ru.png" alt=""
+          style="height: 36px; width: 36px;"></a>
+      <a href="" class="lang__button"><img src="../img/lang_en.png" alt="" style="height: 36px; width: 36px;"></a>
+    </div>
+
+    <p class="logo__16"><img src="../img/16plus.png" alt="" style="height: 64px; width: 64px;"></p>
+
+    <a href="" class="gplay__button" target="_blank" );="" return="" false;"=""><img src="../img/google_play.png" alt=""
+        style="height: 61px; width: 182px;"></a>
+    <a href="" class="ios__button" target="_blank" );="" return="" false;"=""><img src="../img/app_atore_badge_ru.svg"
+        alt="" style="height: 61px; width: 182px;"></a>
+
+    <a href="" class="steam__button" target="_blank"><img src="../img/go_steam.png" alt=""
+        style="height: 51px; width: 189px;"></a>
+
+    <img class="play__button"
+        src="../img/4play.gif" alt="Play!"></a>
+
+    <a href="#more" class="scrolldown__button"><img src="../img/scrolldown.png" alt=""
+        style="height: 48px; width: 48px;"></a>
+    <div id="social">
+
+      <a href="" target="_blank"><img src="../img/vk.png" alt="VKontakte" style="height: 64px; width: 64px;"></a>
+      <a href="" target="_blank"><img src="../img/fb.png" alt="Facebook" style="height: 64px; width: 64px;"></a>
+      <a href="" target="_blank"><img src="../img/2ch.png" alt="2ch.hk/es" style="height: 64px; width: 64px;"></a>
+    </div>
+  </div>
+  <div id="more">
+    <div class="wrap">
+      <div style="padding: 15px;">
+
+        <h2>
+          <font color="#0f91ff">О чём игра?</font>
+        </h2>
+        <p>
+          <b>Маяк – это визуальная новелла от российских разработчиков, дарящая самые искренние и светлые
+            переживания об ушедших днях и надеждах, которым ещё предстоит сбыться.</b><br>
+        </p>
+        <p>
+          <b>Представьте картину: тихий океан, маяк, 
+          мужчина, выполняющий свою обыденную работу. Однако 
+          что делать, если обычное строение, которое кажется 
+          привычным и несущим в себе лишь романтические 
+          ассоциации о море и приключениях, вдруг становится 
+          центром внимания сверхъестественных?</b>
+        </p>
+        <br>
+        <h2>
+          <font color="#0f91ff">Галерея</font>
+        </h2>
+        <p>
+        <div class="popup-gallery">
+          <a href="../images/b.jpeg" title="Everlasting Summer"><img src="../images/b.jpeg" width="185"
+              height="104"></a>
+          <a href="../images/goriz.jpg" title="Everlasting Summer"><img src="../images/goriz.jpg" width="185"
+              height="104"></a>
+          <a href="../images/fon.png" title="Everlasting Summer"><img src="../images/fon.png" width="185"
+              height="104"></a>
+          <a href="../images/inside.jpg" title="Everlasting Summer"><img src="../images/inside.jpg" width="185"
+              height="104"></a>
+          <a href="../images/vhod.jpg" title="Everlasting Summer"><img src="../images/vhod.jpg" width="185"
+              height="104"></a>
+
+        </div>
+
+        <p><br></p>
+
+
+        <br>
+
+        <!-- <div class="audio-player">
+          <div class="controls">
+            <button class="play-pause-btn">
+              <i class="fas fa-play"></i>
+            </button>
+            <div class="time-info">
+              <span class="current-time">00:00</span>
+              <span class="duration">00:00</span>
+            </div>
+            <div class="volume-control">
+              <input type="range" class="volume-slider" min="0" max="1" step="0.01" value="1">
+              <button class="mute-btn">
+                <i class="fas fa-volume-up"></i>
+              </button>
+            </div>
+          </div>
+          <input type="range" class="progress-bar" min="0" max="100" value="0">
+          <audio class="audio-element" src="path/to/your/audio/file.mp3"></audio>
+        </div>
+        
+
+<script>
+const audioPlayer = document.querySelector('.audio-element');
+const playPauseBtn = document.querySelector('.play-pause-btn');
+const muteBtn = document.querySelector('.mute-btn');
+const volumeSlider = document.querySelector('.volume-slider');
+const progressBar = document.querySelector('.progress-bar');
+const currentTimeElement = document.querySelector('.current-time');
+const durationElement = document.querySelector('.duration');
+
+let isPlaying = false;
+let isMuted = false;
+
+playPauseBtn.addEventListener('click', () => {
+  if (isPlaying) {
+    audioPlayer.pause();
+    playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
+  } else {
+    audioPlayer.play();
+    playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
+  }
+  isPlaying = !isPlaying;
+});
+
+muteBtn.addEventListener('click', () => {
+  if (isMuted) {
+    audioPlayer.muted = false;
+    muteBtn.innerHTML = '<i class="fas fa-volume-up"></i>';
+  } else {
+    audioPlayer.muted = true;
+    muteBtn.innerHTML = '<i class="fas fa-volume-mute"></i>';
+  }
+  isMuted = !isMuted;
+});
+
+volumeSlider.addEventListener('input', () => {
+  audioPlayer.volume = volumeSlider.value;
+});
+
+progressBar.addEventListener('input', () => {
+  audioPlayer.currentTime = (progressBar.value / 100) * audioPlayer.duration;
+});
+
+audioPlayer.addEventListener('timeupdate', () => {
+  const currentTime = audioPlayer.currentTime;
+  const duration = audioPlayer.duration;
+  const progressPercentage = (currentTime / duration) * 100;
+
+  progressBar.value = progressPercentage;
+  currentTimeElement.textContent = formatTime(currentTime);
+  durationElement.textContent = formatTime(duration);
+});
+
+function formatTime(time) {
+  const minutes = Math.floor(time / 60);
+  const seconds = Math.floor(time % 60);
+  return `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+}
+
+</script> -->
+
+
+<h2><font color="#0f91ff">Музыка Маяка</font></h2>
+
+<p>Маяк: Home_may</p>
+			<iframe style="border: 0; width: 700px; height: 272px;" src="../music/home_may.wav">Маяк: Home_may</a></iframe><br>
+			<div style="display: flex; flex-direction: row; align-items: center; margin: 10px 0px;">
+			</div>
+			<br><br>
+			<p>Маяк: Main_menu</p>
+			<iframe style="border: 0; width: 700px; height: 272px;" src="../music/main_menu.wav">Маяк: Main_menu</a></iframe><br>
+			<div style="display: flex; flex-direction: row; align-items: center; margin: 10px 0px;">
+			</div>
+			<br><br>
+			
+
+<br>
+        <div id="characters">
+          <div class="cer">ПЕРСОНАЖИ</div>
+          <div class="wrapper">
+            <input type="radio" name="point" id="slide1" checked="">
+            <input type="radio" name="point" id="slide2">
+            <input type="radio" name="point" id="slide3">
+            <input type="radio" name="point" id="slide4">
+
+            <div class="controls">
+              <label for="slide1">
+                <img src="../images/victor_2.png">
+              </label>
+
+              <label for="slide2">
+                <img src="../images/behji_4.png">
+              </label>
+
+              <label for="slide3">
+                <img src="../images/moriak_1.png">
+              </label>
+
+              <label for="slide4">
+                <img src="../images/babka.jpg">
+              </label>
+
+              
+            </div>
+            <div class="slider">
+              <div class="slides slide1">
+                <div class="character">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td id="character1"></td>
+                        <td class="bio">Смотритель маяка: Виктор — он самый обычный человек, 
+                          который увлекается в детстве работой смотрителя маяка. 
+                          Его жизнь самая банальная. Скучная. Именно поэтому 
+                          изменения в жизни Виктора очень пугают и он сторонится людей.
+                        </td>
+                      </tr>
+                    </tbody>
+
+                  </table>
+
+                </div>
+
+              </div>
+
+              <div class="slides slide2">
+
+                <div class="character">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td id="character2"></td>
+                        <td class="bio">Почтальон: Бенджамин — почтальон, живущий по 
+                          соседству с маяком. Любитель подшутить над 
+                          смотрителем маяка. Выделяется своим приветливым и 
+                          отзывчивым характером.
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+
+                </div>
+              </div>
+
+              <div class="slides slide3">
+
+                <div class="character">
+
+                  <table>
+
+                    <tbody>
+
+                      <tr>
+
+                        <td id="character3"></td>
+
+                        <td class="bio">Моряк: Старый моряк, который что-то знает о секрете 
+                          маяка, но по какой-то причине скрывает это. 
+                        </td>
+
+                      </tr>
+
+                    </tbody>
+
+                  </table>
+
+                </div>
+
+              </div>
+
+              <div class="slides slide4">
+
+                <div class="character">
+
+                  <table>
+
+                    <tbody>
+
+                      <tr>
+
+                        <td id="character4"></td>
+
+                        <td class="bio">Бабушка: Воспоминания, которые никогда не вернуть. Её с 
+                          тёплой улыбкой вспоминает наш главный герой и скучает 
+                          по тем мирным денькам, которые огораживали молодого 
+                          Виктора от равнодушного мира.</td>
+
+                      </tr>
+
+                    </tbody>
+
+                  </table>
+
+                </div>
+
+              </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <br>
+        <div align="center">
+        <h2>
+          <font  color="#0f91ff" >Полезные ссылки</font>
+        </h2>
+        <table class="links" border="0" width="100%">
+          <tr>
+            <td><b>Информация:</b></td>
+            <td><b>Рейтинги и отзывы:</b></td>
+          </tr>
+          <tr>
+            <td><br></td>
+            <td><br></td>
+          </tr>
+          <tr>
+            <td><a href="" target="_blank">Вики-энциклопедия</a> проекта
+            </td>
+            <td>Страница на <a href="" target="_blank">AG.ru</a></td>
+          </tr>
+          <tr>
+            <td><a href="" target="_blank">Мастерская</a> в Steam</td>
+            <td>Отзывы на <a href=""
+                target="_blank">Metacritics.com</a></td>
+          </tr>
+          <tr>
+            <td>Связаться с нами: <a
+                href=""></a>
+            </td>
+            <td>Рейтинг в базе визуальных новелл <a href="" target="_blank">VNDb.org</a></td>
+          </tr>
+        </table>
+        <table border="0">
+          <tr>
+            <td><br></td>
+          </tr>
+          <tr>
+            <td><b>Дистрибуция:</b></td>
+          </tr>
+          <tr>
+            <td><br></td>
+          </tr>
+          <tr>
+            <td>Маяк в <a href="" target="_blank">Steam</a></td>
+          </tr>
+          <tr>
+            <td>Скачать на <a href="" target="_blank">Рутрекере</a>
+            </td>
+          </tr>
+          <tr>
+            <td>Версия для Android в <a
+                href=""
+                target="_blank">Google Play</a></td>
+          </tr>
+          <tr>
+            <td>Версия <a href="" target="_blank">для
+                iOS</a></td>
+          </tr>
+        </table>
+        <br>
+        <p></p>
+        <div align="center">
+          <a href="" target="_blank"><img src="../images/logo.png" width="122" height="128"></a>
+        </div>
+      </div>
+    </div>
+      <div style="padding: 15px 15px 0;">
+        <p class="copy">©Lighthouse Games</p>
+      </div>
+    </div>
+  </div>
+
+  <div id="fb-root"></div>
+  <div class="in_top">
+    <div class="in_top">
+      <span><br></span>
+    </div>
+  </div>
+</body>
+
+</html>
